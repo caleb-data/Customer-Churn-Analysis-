@@ -1,0 +1,11 @@
+requirement.txt
+pyodbc
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imblearn
+statsmodels
+openpyxl
