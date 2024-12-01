@@ -1,4 +1,3 @@
-requirement.txt
 pyodbc
 python-dotenv
 pandas
